@@ -1,0 +1,14 @@
+﻿极致播放器专用源
+
+发布频道：https://t.me/jizhi111
+
+交流讨论：https://t.me/jizhi222
+
+Js=hua
+华华演示,#genre#
+TVB无线新闻,http://?id=653e4703000daead0c78dfb07723484e
+TVB无线新闻 H.265,http://?id=653e4818000b73240c7d19181340415e
+TVB财体资讯,http://?id=5ffbee4900066c0ddf0b8b84423c06f3
+TVB财体资讯 H.265,http://?id=611d989d0005244a4a7f24d111282ffb
+
+完整列表请自行获取
