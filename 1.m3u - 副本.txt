@@ -1,6 +1,6 @@
 #EXTM3U8
 #EXTINF:-1,翡翠4K
-http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
 #EXTINF:-1,4K人民电台
 
 #EXTINF:-1,足球
