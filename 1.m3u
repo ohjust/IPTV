@@ -10,3 +10,44 @@ https://livednow.com/tencent/100000:56377517/281797/1378362500?sign=gAAAAABmEyGw
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="英超",04/07 22:15 英超联赛 曼联vs利物浦 解说
 https://livednow.com/migu/906727206?sign=gAAAAABmEdBeyZC9yumU3h-yGGEHloHObHAI40PE7An-LB066r4MUB8SYvNtcDDoKBJasyNEz-cFNdcfF6dolMsQR7u1YT_kDRaRvND_V40LYrhbueFX9_LSe0g2UxrLjYJKRoHcrUBV1Nqcaxsmi6brAFXRXbo7-9ZjegpRFHGmsOBLXVx-W47-c9C6o1TA6Y9ZgtwU6UbTnd1rDwc9UsvHSP5xmDBckA%3D%3D
+#EXTM3U
+#EXTINF:-1,凤凰卫视中文台
+http://proxy.dfkj.live/alitv.php?u=min&id=1
+#EXTINF:-1,凤凰卫视资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=2
+#EXTINF:-1,香港有线新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=3
+#EXTINF:-1,香港有线18台
+http://proxy.dfkj.live/alitv.php?u=min&id=4
+#EXTINF:-1,香港有线高清603台
+http://proxy.dfkj.live/alitv.php?u=min&id=5
+#EXTINF:-1,TVB无线新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=6
+#EXTINF:-1,TVB财经体育资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=7
+#EXTINF:-1,TVB翡翠台
+http://proxy.dfkj.live/alitv.php?u=min&id=8
+#EXTINF:-1,TVB华丽翡翠台
+http://proxy.dfkj.live/alitv.php?u=min&id=9
+#EXTINF:-1,TVB明珠台
+http://proxy.dfkj.live/alitv.php?u=min&id=10
+#EXTINF:-1,TVB J2
+http://proxy.dfkj.live/alitv.php?u=min&id=11
+#EXTINF:-1,TVB星河
+http://proxy.dfkj.live/alitv.php?u=min&id=12
+#EXTINF:-1,ViuTV
+http://proxy.dfkj.live/alitv.php?u=min&id=13
+#EXTINF:-1,ViuTV6
+http://proxy.dfkj.live/alitv.php?u=min&id=14
+#EXTINF:-1,NOW新闻台
+http://proxy.dfkj.live/alitv.php?u=min&id=15
+#EXTINF:-1,香港国际财经台
+http://proxy.dfkj.live/alitv.php?u=min&id=16
+#EXTINF:-1,HOY TV
+http://proxy.dfkj.live/alitv.php?u=min&id=17
+#EXTINF:-1,HOY资讯台
+http://proxy.dfkj.live/alitv.php?u=min&id=18
+#EXTINF:-1,港台电视31
+http://proxy.dfkj.live/alitv.php?u=min&id=19
+#EXTINF:-1,港台电视32
+http://proxy.dfkj.live/alitv.php?u=min&id=20
