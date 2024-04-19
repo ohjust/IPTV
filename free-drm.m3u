@@ -1,0 +1,383 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="direct usa" tvg-id="directusa/accuweatherhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] AccuWeather HD
+http://free.9528.eu.org:9529/stream/directusa/accuweatherhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:2 group-title="direct usa" tvg-id="directusa/altitudesportshd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Altitude Sports HD
+http://free.9528.eu.org:9529/stream/directusa/altitudesportshd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:3 group-title="direct usa" tvg-id="directusa/animalplanethd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Animal Planet HD
+http://free.9528.eu.org:9529/stream/directusa/animalplanethd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:4 group-title="direct usa" tvg-id="directusa/arirangtv" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Arirang TV
+http://free.9528.eu.org:9529/stream/directusa/arirangtv/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:5 group-title="direct usa" tvg-id="directusa/axstvhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] AXS TV HD
+http://free.9528.eu.org:9529/stream/directusa/axstvhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:6 group-title="direct usa" tvg-id="directusa/babyfirst" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] BabyFirst
+http://free.9528.eu.org:9529/stream/directusa/babyfirst/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:7 group-title="direct usa" tvg-id="directusa/ballysportsdetroit" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Detroit
+http://free.9528.eu.org:9529/stream/directusa/ballysportsdetroit/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:8 group-title="direct usa" tvg-id="directusa/ballysportsflorida" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Florida
+http://free.9528.eu.org:9529/stream/directusa/ballysportsflorida/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:9 group-title="direct usa" tvg-id="directusa/ballysportsgreatlakes" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Great Lakes
+http://free.9528.eu.org:9529/stream/directusa/ballysportsgreatlakes/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:10 group-title="direct usa" tvg-id="directusa/ballysportsmidwest" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Midwest
+http://free.9528.eu.org:9529/stream/directusa/ballysportsmidwest/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:11 group-title="direct usa" tvg-id="directusa/ballysportsnorth" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports North
+http://free.9528.eu.org:9529/stream/directusa/ballysportsnorth/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:12 group-title="direct usa" tvg-id="directusa/ballysportsohio" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Ohio
+http://free.9528.eu.org:9529/stream/directusa/ballysportsohio/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:13 group-title="direct usa" tvg-id="directusa/ballysportsoklahoma" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Oklahoma
+http://free.9528.eu.org:9529/stream/directusa/ballysportsoklahoma/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:14 group-title="direct usa" tvg-id="directusa/ballysportsoklahomaextra" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Oklahoma Extra
+http://free.9528.eu.org:9529/stream/directusa/ballysportsoklahomaextra/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:15 group-title="direct usa" tvg-id="directusa/ballysportsoklahomaextra-1" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Oklahoma Extra+
+http://free.9528.eu.org:9529/stream/directusa/ballysportsoklahomaextra-1/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:16 group-title="direct usa" tvg-id="directusa/ballysportsoklahoma-1" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Oklahoma+
+http://free.9528.eu.org:9529/stream/directusa/ballysportsoklahoma-1/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:17 group-title="direct usa" tvg-id="directusa/ballysportssandiego" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports San Diego
+http://free.9528.eu.org:9529/stream/directusa/ballysportssandiego/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:18 group-title="direct usa" tvg-id="directusa/ballysportssocal" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports SoCal
+http://free.9528.eu.org:9529/stream/directusa/ballysportssocal/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:19 group-title="direct usa" tvg-id="directusa/ballysportssouth" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports South
+http://free.9528.eu.org:9529/stream/directusa/ballysportssouth/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:20 group-title="direct usa" tvg-id="directusa/ballysportssoutheast" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Southeast
+http://free.9528.eu.org:9529/stream/directusa/ballysportssoutheast/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:21 group-title="direct usa" tvg-id="directusa/ballysportssouthwest" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Southwest
+http://free.9528.eu.org:9529/stream/directusa/ballysportssouthwest/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:22 group-title="direct usa" tvg-id="directusa/ballysportssouthwestextra" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Southwest Extra
+http://free.9528.eu.org:9529/stream/directusa/ballysportssouthwestextra/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:23 group-title="direct usa" tvg-id="directusa/ballysportssun" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Sun
+http://free.9528.eu.org:9529/stream/directusa/ballysportssun/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:24 group-title="direct usa" tvg-id="directusa/ballysportswest" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports West
+http://free.9528.eu.org:9529/stream/directusa/ballysportswest/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:25 group-title="direct usa" tvg-id="directusa/ballysportswisconsin" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bally Sports Wisconsin
+http://free.9528.eu.org:9529/stream/directusa/ballysportswisconsin/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:26 group-title="direct usa" tvg-id="directusa/bbcamericahd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] BBC America HD
+http://free.9528.eu.org:9529/stream/directusa/bbcamericahd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:27 group-title="direct usa" tvg-id="directusa/bethd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] BET HD
+http://free.9528.eu.org:9529/stream/directusa/bethd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:28 group-title="direct usa" tvg-id="directusa/betwesthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] BET West HD
+http://free.9528.eu.org:9529/stream/directusa/betwesthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:29 group-title="direct usa" tvg-id="directusa/bloombergtvhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Bloomberg TV HD
+http://free.9528.eu.org:9529/stream/directusa/bloombergtvhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:30 group-title="direct usa" tvg-id="directusa/boomerang" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Boomerang
+http://free.9528.eu.org:9529/stream/directusa/boomerang/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:31 group-title="direct usa" tvg-id="directusa/btnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] BTN HD
+http://free.9528.eu.org:9529/stream/directusa/btnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:32 group-title="direct usa" tvg-id="directusa/cartoonnetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Cartoon Network HD
+http://free.9528.eu.org:9529/stream/directusa/cartoonnetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:33 group-title="direct usa" tvg-id="directusa/cheddarnews" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Cheddar News
+http://free.9528.eu.org:9529/stream/directusa/cheddarnews/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:34 group-title="direct usa" tvg-id="directusa/cleotv" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Cleo TV
+http://free.9528.eu.org:9529/stream/directusa/cleotv/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:35 group-title="direct usa" tvg-id="directusa/cmthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] CMT HD
+http://free.9528.eu.org:9529/stream/directusa/cmthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:36 group-title="direct usa" tvg-id="directusa/cnnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] CNN HD
+http://free.9528.eu.org:9529/stream/directusa/cnnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:37 group-title="direct usa" tvg-id="directusa/comedycentralhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Comedy Central HD
+http://free.9528.eu.org:9529/stream/directusa/comedycentralhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:38 group-title="direct usa" tvg-id="directusa/comedycentralwesthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Comedy Central West HD
+http://free.9528.eu.org:9529/stream/directusa/comedycentralwesthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:39 group-title="direct usa" tvg-id="directusa/cookingchannelhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Cooking Channel HD
+http://free.9528.eu.org:9529/stream/directusa/cookingchannelhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:40 group-title="direct usa" tvg-id="directusa/cspan" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] CSPAN
+http://free.9528.eu.org:9529/stream/directusa/cspan/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:41 group-title="direct usa" tvg-id="directusa/cspan2" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] CSPAN 2
+http://free.9528.eu.org:9529/stream/directusa/cspan2/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:42 group-title="direct usa" tvg-id="directusa/daystarhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Daystar HD
+http://free.9528.eu.org:9529/stream/directusa/daystarhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:43 group-title="direct usa" tvg-id="directusa/directv4klive" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] DIRECTV 4K Live
+http://free.9528.eu.org:9529/stream/directusa/directv4klive/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:44 group-title="direct usa" tvg-id="directusa/discoveryhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Discovery HD
+http://free.9528.eu.org:9529/stream/directusa/discoveryhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:45 group-title="direct usa" tvg-id="directusa/disneychannelhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Disney Channel HD
+http://free.9528.eu.org:9529/stream/directusa/disneychannelhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:46 group-title="direct usa" tvg-id="directusa/disneyjuniorhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Disney Junior HD
+http://free.9528.eu.org:9529/stream/directusa/disneyjuniorhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:47 group-title="direct usa" tvg-id="directusa/disneyxdhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Disney XD HD
+http://free.9528.eu.org:9529/stream/directusa/disneyxdhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:48 group-title="direct usa" tvg-id="directusa/earthxtv" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] EarthxTV
+http://free.9528.eu.org:9529/stream/directusa/earthxtv/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:49 group-title="direct usa" tvg-id="directusa/espnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] ESPN HD
+http://free.9528.eu.org:9529/stream/directusa/espnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:50 group-title="direct usa" tvg-id="directusa/espn2hd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] ESPN2 HD
+http://free.9528.eu.org:9529/stream/directusa/espn2hd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:51 group-title="direct usa" tvg-id="directusa/espnuhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] ESPNU HD
+http://free.9528.eu.org:9529/stream/directusa/espnuhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:52 group-title="direct usa" tvg-id="directusa/familymovieclassic" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Family Movie Classic
+http://free.9528.eu.org:9529/stream/directusa/familymovieclassic/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:53 group-title="direct usa" tvg-id="directusa/fmhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] FM HD
+http://free.9528.eu.org:9529/stream/directusa/fmhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:54 group-title="direct usa" tvg-id="directusa/foodnetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Food Network HD
+http://free.9528.eu.org:9529/stream/directusa/foodnetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:55 group-title="direct usa" tvg-id="directusa/foxsports1hd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] FOX Sports 1 HD
+http://free.9528.eu.org:9529/stream/directusa/foxsports1hd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:56 group-title="direct usa" tvg-id="directusa/foxsports2hd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] FOX Sports 2 HD
+http://free.9528.eu.org:9529/stream/directusa/foxsports2hd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:57 group-title="direct usa" tvg-id="directusa/freeformhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Freeform HD
+http://free.9528.eu.org:9529/stream/directusa/freeformhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:58 group-title="direct usa" tvg-id="directusa/fusehd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Fuse HD
+http://free.9528.eu.org:9529/stream/directusa/fusehd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:59 group-title="direct usa" tvg-id="directusa/fxhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] FX HD
+http://free.9528.eu.org:9529/stream/directusa/fxhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:60 group-title="direct usa" tvg-id="directusa/fxxhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] FXX HD
+http://free.9528.eu.org:9529/stream/directusa/fxxhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:61 group-title="direct usa" tvg-id="directusa/galavisionhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Galavision HD
+http://free.9528.eu.org:9529/stream/directusa/galavisionhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:62 group-title="direct usa" tvg-id="directusa/gameshownetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Game Show Network HD
+http://free.9528.eu.org:9529/stream/directusa/gameshownetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:63 group-title="direct usa" tvg-id="directusa/hallmarkchannelhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Hallmark Channel HD
+http://free.9528.eu.org:9529/stream/directusa/hallmarkchannelhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:64 group-title="direct usa" tvg-id="directusa/hallmarkmystery" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Hallmark Mystery
+http://free.9528.eu.org:9529/stream/directusa/hallmarkmystery/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:65 group-title="direct usa" tvg-id="directusa/hgtvhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] HGTV HD
+http://free.9528.eu.org:9529/stream/directusa/hgtvhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:66 group-title="direct usa" tvg-id="directusa/hlnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] HLN HD
+http://free.9528.eu.org:9529/stream/directusa/hlnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:67 group-title="direct usa" tvg-id="directusa/homeshoppingnetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Home Shopping Network HD
+http://free.9528.eu.org:9529/stream/directusa/homeshoppingnetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:68 group-title="direct usa" tvg-id="directusa/insphd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] INSP HD
+http://free.9528.eu.org:9529/stream/directusa/insphd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:69 group-title="direct usa" tvg-id="directusa/investigationdiscoveryhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Investigation Discovery HD
+http://free.9528.eu.org:9529/stream/directusa/investigationdiscoveryhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:70 group-title="direct usa" tvg-id="directusa/jewelrytelevision" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Jewelry Television
+http://free.9528.eu.org:9529/stream/directusa/jewelrytelevision/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:71 group-title="direct usa" tvg-id="directusa/madisonsquaregardenhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Madison Square Garden HD
+http://free.9528.eu.org:9529/stream/directusa/madisonsquaregardenhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:72 group-title="direct usa" tvg-id="directusa/masnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] MASN HD
+http://free.9528.eu.org:9529/stream/directusa/masnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:73 group-title="direct usa" tvg-id="directusa/monumentalsportsnetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Monumental Sports Network HD
+http://free.9528.eu.org:9529/stream/directusa/monumentalsportsnetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:74 group-title="direct usa" tvg-id="directusa/motortrendhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] MotorTrend HD
+http://free.9528.eu.org:9529/stream/directusa/motortrendhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:75 group-title="direct usa" tvg-id="directusa/msgsportsnethd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] MSG Sportsnet HD
+http://free.9528.eu.org:9529/stream/directusa/msgsportsnethd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:76 group-title="direct usa" tvg-id="directusa/mtvhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] MTV HD
+http://free.9528.eu.org:9529/stream/directusa/mtvhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:77 group-title="direct usa" tvg-id="directusa/mtvwesthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] MTV West HD
+http://free.9528.eu.org:9529/stream/directusa/mtvwesthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:78 group-title="direct usa" tvg-id="directusa/mtv2hd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] MTV2 HD
+http://free.9528.eu.org:9529/stream/directusa/mtv2hd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:79 group-title="direct usa" tvg-id="directusa/natgeowildhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Nat Geo Wild HD
+http://free.9528.eu.org:9529/stream/directusa/natgeowildhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:80 group-title="direct usa" tvg-id="directusa/nationalgeographichd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] National Geographic HD
+http://free.9528.eu.org:9529/stream/directusa/nationalgeographichd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:81 group-title="direct usa" tvg-id="directusa/nbcsportsbayareahd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] NBC Sports Bay Area HD
+http://free.9528.eu.org:9529/stream/directusa/nbcsportsbayareahd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:82 group-title="direct usa" tvg-id="directusa/nbcsportsbostonhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] NBC Sports Boston HD
+http://free.9528.eu.org:9529/stream/directusa/nbcsportsbostonhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:83 group-title="direct usa" tvg-id="directusa/nbcsportscaliforniahd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] NBC Sports California HD
+http://free.9528.eu.org:9529/stream/directusa/nbcsportscaliforniahd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:84 group-title="direct usa" tvg-id="directusa/nbcsportschicagohd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] NBC Sports Chicago HD
+http://free.9528.eu.org:9529/stream/directusa/nbcsportschicagohd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:85 group-title="direct usa" tvg-id="directusa/nesnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] NESN HD
+http://free.9528.eu.org:9529/stream/directusa/nesnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:86 group-title="direct usa" tvg-id="directusa/newsmaxtvhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Newsmax TV HD
+http://free.9528.eu.org:9529/stream/directusa/newsmaxtvhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:87 group-title="direct usa" tvg-id="directusa/nflnetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] NFL Network HD
+http://free.9528.eu.org:9529/stream/directusa/nflnetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:88 group-title="direct usa" tvg-id="directusa/nickjrhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Nick Jr. HD
+http://free.9528.eu.org:9529/stream/directusa/nickjrhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:89 group-title="direct usa" tvg-id="directusa/nickelodeoneasthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Nickelodeon East HD
+http://free.9528.eu.org:9529/stream/directusa/nickelodeoneasthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:90 group-title="direct usa" tvg-id="directusa/outdoorchannelhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Outdoor Channel HD
+http://free.9528.eu.org:9529/stream/directusa/outdoorchannelhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:91 group-title="direct usa" tvg-id="directusa/ovationhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Ovation HD
+http://free.9528.eu.org:9529/stream/directusa/ovationhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:92 group-title="direct usa" tvg-id="directusa/ownhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] OWN HD
+http://free.9528.eu.org:9529/stream/directusa/ownhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:93 group-title="direct usa" tvg-id="directusa/paramountnetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Paramount Network HD
+http://free.9528.eu.org:9529/stream/directusa/paramountnetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:94 group-title="direct usa" tvg-id="directusa/pbskids" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] PBS Kids
+http://free.9528.eu.org:9529/stream/directusa/pbskids/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:95 group-title="direct usa" tvg-id="directusa/pophd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] POP HD
+http://free.9528.eu.org:9529/stream/directusa/pophd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:96 group-title="direct usa" tvg-id="directusa/pursuitchannel" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Pursuit Channel
+http://free.9528.eu.org:9529/stream/directusa/pursuitchannel/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:97 group-title="direct usa" tvg-id="directusa/qvchd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] QVC HD
+http://free.9528.eu.org:9529/stream/directusa/qvchd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:98 group-title="direct usa" tvg-id="directusa/reelzchannelhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] ReelzChannel HD
+http://free.9528.eu.org:9529/stream/directusa/reelzchannelhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:99 group-title="direct usa" tvg-id="directusa/revolthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Revolt HD
+http://free.9528.eu.org:9529/stream/directusa/revolthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:100 group-title="direct usa" tvg-id="directusa/rootsportsnorthwesthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] ROOT SPORTS Northwest HD
+http://free.9528.eu.org:9529/stream/directusa/rootsportsnorthwesthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:101 group-title="direct usa" tvg-id="directusa/scientologynetwork" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Scientology Network
+http://free.9528.eu.org:9529/stream/directusa/scientologynetwork/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:102 group-title="direct usa" tvg-id="directusa/shoplchd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Shop LC HD
+http://free.9528.eu.org:9529/stream/directusa/shoplchd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:103 group-title="direct usa" tvg-id="directusa/spacecityhomenetworkhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Space City Home Network HD
+http://free.9528.eu.org:9529/stream/directusa/spacecityhomenetworkhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:104 group-title="direct usa" tvg-id="directusa/spectrumsportsnethd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Spectrum SportsNet HD
+http://free.9528.eu.org:9529/stream/directusa/spectrumsportsnethd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:105 group-title="direct usa" tvg-id="directusa/spectrumsportsnetlahd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Spectrum SportsNet LA HD
+http://free.9528.eu.org:9529/stream/directusa/spectrumsportsnetlahd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:106 group-title="direct usa" tvg-id="directusa/sportsnetpittsburghhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] SportsNet Pittsburgh HD
+http://free.9528.eu.org:9529/stream/directusa/sportsnetpittsburghhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:107 group-title="direct usa" tvg-id="directusa/tastemade" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Tastemade
+http://free.9528.eu.org:9529/stream/directusa/tastemade/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:108 group-title="direct usa" tvg-id="directusa/tbshd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TBS HD
+http://free.9528.eu.org:9529/stream/directusa/tbshd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:109 group-title="direct usa" tvg-id="directusa/tbswesthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TBS West HD
+http://free.9528.eu.org:9529/stream/directusa/tbswesthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:110 group-title="direct usa" tvg-id="directusa/tcmhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TCM HD
+http://free.9528.eu.org:9529/stream/directusa/tcmhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:111 group-title="direct usa" tvg-id="directusa/teennick" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TeenNick
+http://free.9528.eu.org:9529/stream/directusa/teennick/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:112 group-title="direct usa" tvg-id="directusa/telemundoeast" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Telemundo East
+http://free.9528.eu.org:9529/stream/directusa/telemundoeast/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:113 group-title="direct usa" tvg-id="directusa/thefirst" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] The First
+http://free.9528.eu.org:9529/stream/directusa/thefirst/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:114 group-title="direct usa" tvg-id="directusa/thegrio" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] theGrio
+http://free.9528.eu.org:9529/stream/directusa/thegrio/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:115 group-title="direct usa" tvg-id="directusa/tlchd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TLC HD
+http://free.9528.eu.org:9529/stream/directusa/tlchd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:116 group-title="direct usa" tvg-id="directusa/tnthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TNT HD
+http://free.9528.eu.org:9529/stream/directusa/tnthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:117 group-title="direct usa" tvg-id="directusa/tntwesthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TNT West HD
+http://free.9528.eu.org:9529/stream/directusa/tntwesthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:118 group-title="direct usa" tvg-id="directusa/travelchannelhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Travel Channel HD
+http://free.9528.eu.org:9529/stream/directusa/travelchannelhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:119 group-title="direct usa" tvg-id="directusa/trutvh" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] truTV H
+http://free.9528.eu.org:9529/stream/directusa/trutvh/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:120 group-title="direct usa" tvg-id="directusa/tudnhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TUDN HD
+http://free.9528.eu.org:9529/stream/directusa/tudnhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:121 group-title="direct usa" tvg-id="directusa/tvlandhd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] TV Land HD
+http://free.9528.eu.org:9529/stream/directusa/tvlandhd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:122 group-title="direct usa" tvg-id="directusa/univisioneasthd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] Univision East HD
+http://free.9528.eu.org:9529/stream/directusa/univisioneasthd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:123 group-title="direct usa" tvg-id="directusa/vh1hd" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] VH1 HD
+http://free.9528.eu.org:9529/stream/directusa/vh1hd/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:124 group-title="direct usa" tvg-id="directusa/yesnetwork" tvg-logo="" provider="direct usa" provider-logo="" provider-type="iptv",[direct usa] YES Network
+http://free.9528.eu.org:9529/stream/directusa/yesnetwork/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:125 group-title="HK" tvg-id="hk/test" tvg-logo="" provider="HK" provider-logo="" provider-type="iptv",[HK] test
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:126 group-title="NBA" tvg-id="nba/nbatv" tvg-logo="" provider="NBA" provider-logo="" provider-type="iptv",[NBA] NBA-TV
+http://free.9528.eu.org:9529/stream/nba/nbatv/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:127 group-title="NBA" tvg-id="nba/stan4k" tvg-logo="" provider="NBA" provider-logo="" provider-type="iptv",[NBA] stan-4k
+http://free.9528.eu.org:9529/stream/nba/stan4k.mp4?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
