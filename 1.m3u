@@ -52,8 +52,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=16
 http://proxy.dfkj.live/alitv.php?u=min&id=17
 #EXTINF:-1,HOY资讯台
 http://proxy.dfkj.live/alitv.php?u=min&id=18
-#EXTINF:-1,梦中人
-dhttp://ali.hlspull.yximgs.com/live/a35574085cbc290e920240f7a6a78856.flv
+#EXTINF:-1,tvb
+https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1,港台电视32
 http://proxy.dfkj.live/alitv.php?u=min&id=20
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛",04/13 10:00 NBA常规赛 鹈鹕vs勇士 柯凡 苏群 辰辰
