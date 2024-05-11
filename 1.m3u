@@ -49,8 +49,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=15
 http://proxy.dfkj.live/alitv.php?u=min&id=16
 #EXTINF:-1,HOY TV
 http://proxy.dfkj.live/alitv.php?u=min&id=17
-#EXTINF:-1,HOY资讯台
-http://proxy.dfkj.live/alitv.php?u=min&id=18
+#EXTINF:-1,cctv16 8k
+http://101.37.183.148/liveali-tp4k.cctv.cn/live/CCTV16-4K.stream/playlist.m3u8
 #EXTINF:-1,tvb
 https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1,爆谷影星台
