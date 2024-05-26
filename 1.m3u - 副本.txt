@@ -198,3 +198,13 @@ https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c7
 
 #EXTINF:-1, Now beIN SPORTS 3
 https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports3
+#EXTM3U
+
+#EXTINF:-1, 668
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-668
+
+#EXTINF:-1, Now Golf 2
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-golf2
+
+#EXTINF:-1, Now Golf 3
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-golf3
