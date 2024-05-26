@@ -53,8 +53,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=16
 http://free.9528.eu.org:8080/11/index.m3u8
 #EXTINF:-1,cctv16 8k
 http://101.37.183.148/liveali-tp4k.cctv.cn/live/CCTV16-4K.stream/playlist.m3u8
-#EXTINF:-1,足总杯
-https://live.9528.eu.org/a5150738c868e3cd5a7f9968b911908e.m3u8
+#EXTINF:-1,serv00
+https://raw.githubusercontent.com/ohjust/IPTV/main/4gtv-4gtv001.m3u8
 #EXTINF:-1,爆谷影星台
 http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛",04/13 10:00 NBA常规赛 鹈鹕vs勇士 柯凡 苏群 辰辰
