@@ -1,8 +1,103 @@
-#EXTM3U8
-#EXTINF:-1,翡翠4K
+#EXTM3U
 
-#EXTINF:-1,4K人民电台
+#EXTINF:-1, TVB 翡翠台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=feicui
 
-#EXTINF:-1,足球
+#EXTINF:-1, TVB 无线新闻台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-news
 
-#EXTINF:-1,足球1
+#EXTINF:-1, TVB PLUS
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-plus
+
+#EXTINF:-1, TVB 黄金翡翠台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=golden-jade
+
+#EXTINF:-1, TVB 黄金华剧台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=golden-chinese-drama
+
+#EXTINF:-1, TVB 千禧经典台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-classic
+
+#EXTINF:-1, TVB 粤语片台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-yueyu
+
+#EXTINF:-1, TVB 星河台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-xinghe
+
+#EXTINF:-1, TVB 亚洲剧台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-asia-drama
+
+#EXTINF:-1, TVB 娱乐新闻台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=TVB ylxw
+
+#EXTINF:-1, J2
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=j2
+
+#EXTINF:-1, TVB 明珠台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=pearl
+
+#EXTINF:-1, TVB 华语剧台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-drama
+
+#EXTINF:-1, 凤凰卫视 资讯台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=phtv-info
+
+#EXTINF:-1, 凤凰卫视 中文台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=phtv-cn
+
+#EXTINF:-1, 凤凰卫视 香港台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=phtv-hk
+
+#EXTINF:-1, HOY 资讯台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hoy-info
+
+#EXTINF:-1, HOY TV
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hoytv
+
+#EXTINF:-1, HOY国际财经
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hoy-ibc
+
+#EXTINF:-1, ViuTV
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=viutv
+
+#EXTINF:-1, ViuTV6
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=viutv6
+
+#EXTINF:-1, 天映频道
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=celestial
+
+#EXTINF:-1, 天映经典
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=cccm
+
+#EXTINF:-1, Thrill
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=thrill
+
+#EXTINF:-1, 星空卫视
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=star-xing-kong
+
+#EXTINF:-1, 香港卫视
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hks
+
+#EXTINF:-1, 澳亚卫视
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=mastv
+
+#EXTINF:-1, 澳门卫视
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=mstv
+
+#EXTINF:-1, 澳门莲花卫视
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=lotustv
+
+#EXTINF:-1, 澳门资讯
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tdm-information
+
+#EXTINF:-1, 澳视澳门
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tdm
+
+#EXTINF:-1, HKC 18台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hkc18
+
+#EXTINF:-1, 港台电视 31
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=rthk31
+
+#EXTINF:-1, 港台电视 32
+https://douyincdn-6mirror-aliyuncs.52520
