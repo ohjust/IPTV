@@ -101,3 +101,100 @@ https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c7
 
 #EXTINF:-1, 港台电视 32
 https://douyincdn-6mirror-aliyuncs.52520
+#EXTM3U
+
+#EXTINF:-1, 星影台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-baogu-superstars
+
+#EXTINF:-1, Now 新闻台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-news
+
+#EXTINF:-1, Now 直播台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-direct
+
+#EXTINF:-1, Now报价台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-data
+
+#EXTINF:-1, Now jelli紫金国际台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-jelli
+
+#EXTINF:-1, Now华剧台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-chinese-drama
+
+#EXTINF:-1, HBO Now115
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=Now-HBO
+
+#EXTINF:-1, Now HBO Hits
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-hbo-hits
+
+#EXTINF:-1, Now HBO Family
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-hbof-amily
+
+#EXTINF:-1, Now HBO Signature
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-hbo-signature
+
+#EXTINF:-1, MovieMovie
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=moviemovie
+
+#EXTINF:-1, NowViu剧集台
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-viu-drama
+
+#EXTINF:-1, Now Sports 641
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports641
+
+#EXTINF:-1, Now NBA
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-nba
+
+#EXTINF:-1, Now Sports精选
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-prime
+
+#EXTINF:-1, Now Sports 1
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-1
+
+#EXTINF:-1, Now Sports 2
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-2
+
+#EXTINF:-1, Now Sports 3
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-3
+
+#EXTINF:-1, Now Sports 4
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-4
+
+#EXTINF:-1, Now Sports 5
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-5
+
+#EXTINF:-1, Now Sports 6
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-6
+
+#EXTINF:-1, Now Sports 7
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-7
+
+#EXTINF:-1, Now Sports Plus
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-plus
+
+#EXTINF:-1, Now Sports 英超1
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league1
+
+#EXTINF:-1, Now Sports 英超2
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league2
+
+#EXTINF:-1, Now Sports 英超3
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league3
+
+#EXTINF:-1, Now Sports 英超4
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league4
+
+#EXTINF:-1, Now Sports 英超5
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league5
+
+#EXTINF:-1, Now Sports 英超6
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league6
+
+#EXTINF:-1, Now beIN SPORTS 1
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports1
+
+#EXTINF:-1, Now beIN SPORTS 2
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports2
+
+#EXTINF:-1, Now beIN SPORTS 3
+https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports3
