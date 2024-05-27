@@ -31,14 +31,14 @@ http://free.9528.eu.org:8080/sky-sport-main-event-4k/index.m3u8
 http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 #EXTINF:-1,纬来体育
 http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1,博斯网球台免翻
+#EXTINF:-1,博斯网球台免翻aws
 http://18.139.85.211:5678/litv.php?id=litv-longturn09
 #EXTINF:-1,经典影视台
 http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 #EXTINF:-1,魅力台免翻serv
 https://ohjust.serv00.net/litv.php?id=litv-longturn04
-#EXTINF:-1,TVB J2
-http://proxy.dfkj.live/alitv.php?u=min&id=11
+#EXTINF:-1,魅力台免翻aws
+http://18.139.85.211:5678/litv.php?id=litv-longturn04
 #EXTINF:-1,TVB星河
 http://proxy.dfkj.live/alitv.php?u=min&id=12
 #EXTINF:-1,ViuTV
