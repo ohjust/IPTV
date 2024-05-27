@@ -43,10 +43,10 @@ http://18.139.85.211:5678/litv.php?id=litv-longturn04
 http://proxy.dfkj.live/alitv.php?u=min&id=12
 #EXTINF:-1,ViuTV
 http://proxy.dfkj.live/alitv.php?u=min&id=13
-#EXTINF:-1,ViuTV6
-http://proxy.dfkj.live/alitv.php?u=min&id=14
-#EXTINF:-1,NOW新闻台
-http://proxy.dfkj.live/alitv.php?u=min&id=15
+#EXTINF:-1,艾尔达体育1
+http://ohjust.serv00.net/Smartv.php?id=eltasport1_twn
+#EXTINF:-1,艾尔达体育2
+http://ohjust.serv00.net/Smartv.php?id=eltasport2_twn
 #EXTINF:-1,france 24
 http://34.106.108.1:8900/live.m3u8?c=1
 #EXTINF:-1,serv00smart
