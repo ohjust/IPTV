@@ -47,8 +47,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=13
 http://proxy.dfkj.live/alitv.php?u=min&id=14
 #EXTINF:-1,NOW新闻台
 http://proxy.dfkj.live/alitv.php?u=min&id=15
-#EXTINF:-1,香港国际财经台
-http://proxy.dfkj.live/alitv.php?u=min&id=16
+#EXTINF:-1,france 24
+http://gcp4.5201972.xyz:8900/live.m3u8?c=1
 #EXTINF:-1,serv00smart
 https://ohjust.serv00.net/Smarttv.php?=jade_twn
 #EXTINF:-1,cctv16 8k
