@@ -35,8 +35,8 @@ http://125.227.210.55:8155/VideoInput/play.ts
 http://18.139.85.211:5678/litv.php?id=litv-longturn09
 #EXTINF:-1,经典影视台
 http://ali.hlspull.yximgs.com/live/asdfg32516.flv
-#EXTINF:-1,TVB明珠台
-http://proxy.dfkj.live/alitv.php?u=min&id=10
+#EXTINF:-1,魅力台免翻serv
+https://ohjust.serv00.net/litv.php?id=litv-longturn04
 #EXTINF:-1,TVB J2
 http://proxy.dfkj.live/alitv.php?u=min&id=11
 #EXTINF:-1,TVB星河
