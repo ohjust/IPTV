@@ -70,12 +70,14 @@ http://ohjust.serv00.net/Smartv.php?id=eltasport1_twn
 http://ohjust.serv00.net/Smartv.php?id=eltasport2_twn
 #EXTINF:-1,france 24
 http://34.106.108.1:8900/live.m3u8?c=1
-#EXTINF:-1,serv00smart
+#EXTINF:-1,serv00smart翡翠
 https://ohjust.serv00.net/Smarttv.php?=jade_twn
+#EXTINF:-1,serv00smart天空
+http://ohjust.serv00.net/Smartv.php?id=tiankongmain
 #EXTINF:-1,cctv16 8k
 http://101.37.183.148/liveali-tp4k.cctv.cn/live/CCTV16-4K.stream/playlist.m3u8
 #EXTINF:-1,serv00
-https://raw.githubusercontent.com/ohjust/IPTV/main/4gtv-4gtv001.m3u8
+https://raw.githubusercontent.com/ohjust/IPTV/main/4gtv-u4gtv001.m3u8
 #EXTINF:-1,爆谷影星台
 http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
 #EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100000.png" group-title="NBA常规赛",04/13 10:00 NBA常规赛 鹈鹕vs勇士 柯凡 苏群 辰辰
