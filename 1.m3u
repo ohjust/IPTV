@@ -74,8 +74,8 @@ http://34.106.108.1:8900/live.m3u8?c=1
 https://ohjust.serv00.net/Smarttv.php?=jade_twn
 #EXTINF:-1,serv00smart天空
 http://ohjust.serv00.net/Smartv.php?id=tiankongmain
-#EXTINF:-1,cctv16 8k
-http://101.37.183.148/liveali-tp4k.cctv.cn/live/CCTV16-4K.stream/playlist.m3u8
+#EXTINF:-1,cctv16 中央6套
+http://live.iill.top/1905.php?id=1905a
 #EXTINF:-1,serv00
 https://tv.iill.top/tvv/tiankongmain
 #EXTINF:-1,爆谷影星台
