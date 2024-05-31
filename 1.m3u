@@ -1,6 +1,6 @@
 #EXTM3U8
-#EXTINF:-1, 爱尔达体育2
-https://tv.iill.top/tvv/eltasport2_twn
+#EXTINF:-1, 油管2
+http://34.106.108.1:8900/live.m3u8?c=2
 #EXTINF:-1, 爱尔达体育
 https://tv.iill.top/tvv/eltasport_twn
 #EXTINF:-1,爱尔达体育4
@@ -64,11 +64,11 @@ http://18.139.85.211:5678/litv.php?id=litv-longturn04
 http://proxy.dfkj.live/alitv.php?u=min&id=12
 #EXTINF:-1,ViuTV
 http://proxy.dfkj.live/alitv.php?u=min&id=13
-#EXTINF:-1,艾尔达体育1
+#EXTINF:-1,艾尔达体育1serv
 http://ohjust.serv00.net/Smartv.php?id=eltasport1_twn
-#EXTINF:-1,艾尔达体育2
+#EXTINF:-1,艾尔达体育2serv
 http://ohjust.serv00.net/Smartv.php?id=eltasport2_twn
-#EXTINF:-1,france 24
+#EXTINF:-1,france 24油管
 http://34.106.108.1:8900/live.m3u8?c=1
 #EXTINF:-1,serv00smart翡翠
 https://ohjust.serv00.net/Smarttv.php?=jade_twn
