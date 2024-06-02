@@ -53,13 +53,13 @@ http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 #EXTINF:-1,纬来体育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:-1,博斯网球台免翻aws
-http://18.139.85.211:5678/litv.php?id=litv-longturn09
+http://aws.5201972.xyz:5678/litv.php?id=litv-longturn09
 #EXTINF:-1,经典影视台
 http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 #EXTINF:-1,魅力台免翻serv
 https://ohjust.serv00.net/litv.php?id=litv-longturn04
 #EXTINF:-1,魅力台免翻aws
-http://18.139.85.211:5678/litv.php?id=litv-longturn04
+http://aws.5201972.xyz:5678/litv.php?id=litv-longturn04
 #EXTINF:-1,TVB星河
 http://proxy.dfkj.live/alitv.php?u=min&id=12
 #EXTINF:-1,ViuTV
@@ -74,8 +74,8 @@ http://34.106.108.1:8900/live.m3u8?c=1
 https://ohjust.serv00.net/Smarttv.php?=jade_twn
 #EXTINF:-1,serv00smart天空
 http://ohjust.serv00.net/Smartv.php?id=tiankongmain
-#EXTINF:-1,1905电影台
-http://live.iill.top/1905.php?id=1905a
+#EXTINF:-1,1905电影台gcp4
+http://gcp4.5201972.xyz:5678/1905.php?id=1905a
 #EXTINF:-1,中央六套
 http://live.iill.top/1905.php?id=cctv6
 #EXTINF:-1,爆谷影星台
