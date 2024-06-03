@@ -3,8 +3,8 @@
 http://34.106.108.1:8900/live.m3u8?c=2
 #EXTINF:-1, 爆谷影星台（eth）
 http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
-#EXTINF:-1,爱尔达体育4
-https://tv.iill.top/tvv/eltasport4_twn
+#EXTINF:-1,法网
+http://free.9528.eu.org:8080/eurosport-1/index.m3u8
 #EXTINF:-1, U爱尔达体育1
 http://gcp4.5201972.xyz:5678/ublive.php?id=2729
 #EXTINF:-1, U爱尔达体育2
