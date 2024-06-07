@@ -1,222 +1,57 @@
 #EXTM3U
-
-#EXTINF:-1, TVB 爱尔达体育1
-http://gcp4.5201972.xyz:5678/ublive.php?id=192
-#EXTINF:-1, 爱尔达体育2
-http://gcp4.5201972.xyz:5678/ublive.php?id=193
-#EXTINF:-1, 爱尔达体育3
-http://gcp4.5201972.xyz:5678/ublive.php?id=194
-#EXTINF:-1, TVB 爱尔达体育1
-http://gcp4.5201972.xyz:5678/ublive.php?id=2729
-#EXTINF:-1, 爱尔达体育2
-http://gcp4.5201972.xyz:5678/ublive.php?id=2730
-#EXTINF:-1, 爱尔达体育3
-http://gcp4.5201972.xyz:5678/ublive.php?id=2731
-#EXTINF:-1, 爱尔达体育3
-http://gcp4.5201972.xyz:5678/ublive.php?id=2722
-#EXTINF:-1, 爱尔达体育4
-http://gcp4.5201972.xyz:5678/ublive.php?id=2820
-
-#EXTM3U
-#EXTINF:-1, TVB PLUS
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-plus
-
-#EXTINF:-1, TVB 黄金翡翠台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=golden-jade
-
-#EXTINF:-1, TVB 黄金华剧台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=golden-chinese-drama
-
-#EXTINF:-1, TVB 千禧经典台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-classic
-
-#EXTINF:-1, TVB 粤语片台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-yueyu
-
-#EXTINF:-1, TVB 星河台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-xinghe
-
-#EXTINF:-1, TVB 亚洲剧台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-asia-drama
-
-#EXTINF:-1, TVB 娱乐新闻台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=TVB ylxw
-
-#EXTINF:-1, J2
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=j2
-
-#EXTINF:-1, TVB 明珠台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=pearl
-
-#EXTINF:-1, TVB 华语剧台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tvb-drama
-
-#EXTINF:-1, 凤凰卫视 资讯台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=phtv-info
-
-#EXTINF:-1, 凤凰卫视 中文台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=phtv-cn
-
-#EXTINF:-1, 凤凰卫视 香港台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=phtv-hk
-
-#EXTINF:-1, HOY 资讯台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hoy-info
-
-#EXTINF:-1, HOY TV
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hoytv
-
-#EXTINF:-1, HOY国际财经
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hoy-ibc
-
-#EXTINF:-1, ViuTV
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=viutv
-
-#EXTINF:-1, ViuTV6
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=viutv6
-
-#EXTINF:-1, 天映频道
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=celestial
-
-#EXTINF:-1, 天映经典
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=cccm
-
-#EXTINF:-1, Thrill
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=thrill
-
-#EXTINF:-1, 星空卫视
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=star-xing-kong
-
-#EXTINF:-1, 香港卫视
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hks
-
-#EXTINF:-1, 澳亚卫视
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=mastv
-
-#EXTINF:-1, 澳门卫视
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=mstv
-
-#EXTINF:-1, 澳门莲花卫视
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=lotustv
-
-#EXTINF:-1, 澳门资讯
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tdm-information
-
-#EXTINF:-1, 澳视澳门
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=tdm
-
-#EXTINF:-1, HKC 18台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=hkc18
-
-#EXTINF:-1, 港台电视 31
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=rthk31
-
-#EXTINF:-1, 港台电视 32
-https://douyincdn-6mirror-aliyuncs.52520
-#EXTM3U
-
-#EXTINF:-1, 星影台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-baogu-superstars
-
-#EXTINF:-1, Now 新闻台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-news
-
-#EXTINF:-1, Now 直播台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-direct
-
-#EXTINF:-1, Now报价台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-data
-
-#EXTINF:-1, Now jelli紫金国际台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-jelli
-
-#EXTINF:-1, Now华剧台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-chinese-drama
-
-#EXTINF:-1, HBO Now115
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=Now-HBO
-
-#EXTINF:-1, Now HBO Hits
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-hbo-hits
-
-#EXTINF:-1, Now HBO Family
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-hbof-amily
-
-#EXTINF:-1, Now HBO Signature
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-hbo-signature
-
-#EXTINF:-1, MovieMovie
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=moviemovie
-
-#EXTINF:-1, NowViu剧集台
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-viu-drama
-
-#EXTINF:-1, Now Sports 641
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports641
-
-#EXTINF:-1, Now NBA
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-nba
-
-#EXTINF:-1, Now Sports精选
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-prime
-
-#EXTINF:-1, Now Sports 1
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-1
-
-#EXTINF:-1, Now Sports 2
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-2
-
-#EXTINF:-1, Now Sports 3
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-3
-
-#EXTINF:-1, Now Sports 4
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-4
-
-#EXTINF:-1, Now Sports 5
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-5
-
-#EXTINF:-1, Now Sports 6
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-6
-
-#EXTINF:-1, Now Sports 7
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-7
-
-#EXTINF:-1, Now Sports Plus
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-plus
-
-#EXTINF:-1, Now Sports 英超1
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league1
-
-#EXTINF:-1, Now Sports 英超2
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league2
-
-#EXTINF:-1, Now Sports 英超3
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league3
-
-#EXTINF:-1, Now Sports 英超4
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league4
-
-#EXTINF:-1, Now Sports 英超5
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league5
-
-#EXTINF:-1, Now Sports 英超6
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-sports-premier-league6
-
-#EXTINF:-1, Now beIN SPORTS 1
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports1
-
-#EXTINF:-1, Now beIN SPORTS 2
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports2
-
-#EXTINF:-1, Now beIN SPORTS 3
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-bein-sports3
-#EXTM3U
-
-#EXTINF:-1, 668
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-668
-
-#EXTINF:-1, Now Golf 2
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-golf2
-
-#EXTINF:-1, Now Golf 3
-https://douyincdn-6mirror-aliyuncs.52520.xyz/histar.php?key=fce50d20c5069eb773c70dc18d3b49e3&id=now-golf3
+#EXTINF:-1,游戏风云
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,都市剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,移动高清电视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,欢笑剧场4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,求索记录4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,咪咕直播
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,四海钓鱼
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,优优宝贝
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,茶频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229404/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,车迷频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229410/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江新闻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江民生
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江教科
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江钱江
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江经济
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,浙江少儿
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,之江纪录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228989/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,杭州综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
+#EXTINF:-1,杭州西湖明珠
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
+#EXTINF:-1,杭州生活
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
+#EXTINF:-1,杭州影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
+#EXTINF:-1,杭州少儿体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
+#EXTINF:-1,杭州导视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
+#EXTINF:-1,嘉兴新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232990/index.m3u8
+#EXTINF:-1,嘉兴公共
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233019/index.m3u8
+#EXTINF:-1,嘉兴文化影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233022/index.m3u8
+#EXTINF:-1,丽水公共
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,丽水新闻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523/1/index.m3u8?fmt=ts2
