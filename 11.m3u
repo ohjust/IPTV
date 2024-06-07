@@ -1,35 +1,89 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="华央视" group-title="#genre#", 华央视
-p3p://108.181.20.159:80163/62c200310006b7b2a8c4dade0fd02231
-#EXTINF:-1 tvg-name="CCTV综合" group-title="#genre#", CCTV综合
-p3p://108.181.20.159:80163/62be83ea0001dbed9b27d7bb43427d30
-#EXTINF:-1 tvg-name="CCTV财经" group-title="#genre#", CCTV财经
-p3p://108.181.20.159:80163/5fe15a4400093f55773aac0c576366b8
-#EXTINF:-1 tvg-name="CCTV综艺" group-title="#genre#", CCTV综艺
-p3p://108.181.20.159:80163/62be83ea0001dbed9b27d7bb43427d30
-#EXTINF:-1 tvg-name="CCTV国际" group-title="#genre#", CCTV国际
-p3p://108.181.20.159:80163/61244d9c0006885d64b1b7591f6c12a0
-#EXTINF:-1 tvg-name="CCTV体育" group-title="#genre#", CCTV体育
-p3p://108.181.20.159:80163/62c2e10a000954acac332b30611a0e9d
-#EXTINF:-1 tvg-name="CCTV电影" group-title="#genre#", CCTV电影
-p3p://108.181.20.159:80163/62c1fdfa0006353aa8bc33e5054a54db
-#EXTINF:-1 tvg-name="CCTV军事" group-title="#genre#", CCTV军事
-p3p://108.181.20.159:80163/5fe3e41800087c1581251001631763fa
-#EXTINF:-1 tvg-name="CCTV电视剧" group-title="#genre#", CCTV电视剧
-p3p://108.181.20.159:80163/5ff866900007a9fbd141d26a26c3200d
-#EXTINF:-1 tvg-name="CCTV纪录片" group-title="#genre#", CCTV纪录片
-p3p://108.181.20.159:80163/600b6ba2000d52801b8cbfda6cd319a2
-#EXTINF:-1 tvg-name="CCTV科教" group-title="#genre#", CCTV科教
-p3p://108.181.20.159:80163/600b6e71000738431b97b6e5675e67a4
-#EXTINF:-1 tvg-name="CCTV戏曲" group-title="#genre#", CCTV戏曲
-p3p://108.181.20.159:80163/600b70950000f68f1ba011e06e003057
-#EXTINF:-1 tvg-name="CCTV社会与法" group-title="#genre#", CCTV社会与法
-p3p://108.181.20.159:80163/5fe3e42d00068cbf812561891e0e6b52
-#EXTINF:-1 tvg-name="CCTV新闻" group-title="#genre#", CCTV新闻
-p3p://108.181.20.159:80163/632351570006042224e55806316a7512
-#EXTINF:-1 tvg-name="CCTV少儿" group-title="#genre#", CCTV少儿
-p3p://108.181.20.159:80163/600b718b0006dd9f1ba3d45468b1762e
-#EXTINF:-1 tvg-name="CCTV音乐" group-title="#genre#", CCTV音乐
-p3p://108.181.20.159:80163/63235101000d828724e40a062bb62592
-#EXTINF:-1 tvg-name="CCTV奥林匹克" group-title="#genre#", CCTV奥林匹克
-p3p://108.181.20.159:80163/632350a5000deee324e2a2bc22a
+#EXTINF:-1,重温经典
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,Y+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,Drama
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
+#EXTINF:-1,Movie
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236157/index.m3u8
+#EXTINF:-1,金牌综艺
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
+#EXTINF:-1,潮婆辣妈
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8
+#EXTINF:-1,欢乐剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8
+#EXTINF:-1,爱情喜剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
+#EXTINF:-1,动作电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
+#EXTINF:-1,家庭剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
+#EXTINF:-1,哒波赛事
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
+#EXTINF:-1,军事评论
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
+#EXTINF:-1,怡伴健康
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236220/index.m3u8
+#EXTINF:-1,惊悚悬疑
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
+#EXTINF:-1,农业致富
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/index.m3u8
+#EXTINF:-1,精品大剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
+#EXTINF:-1,古装剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
+#EXTINF:-1,武搏天下
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236247/index.m3u8
+#EXTINF:-1,黑莓电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
+#EXTINF:-1,中国功夫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8
+#EXTINF:-1,精品记录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8
+#EXTINF:-1,军旅剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
+#EXTINF:-1,精品体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
+#EXTINF:-1,炫舞未来
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
+#EXTINF:-1,爱浪漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱院线
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱喜剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱科幻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱幼教
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱玩具
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱科学
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱奇谈
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,爱赛车
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1,爱旅行
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1,爱历史
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1,爱悬疑
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1,爱谍战
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1,爱体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
+#EXTINF:-1,电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
+#EXTINF:-1,游戏风云
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,都市剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,移动高清电视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,欢笑剧场4K
+http://hwltc.tv.cdn.zj.chinamobile
