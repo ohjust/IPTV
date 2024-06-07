@@ -42,8 +42,8 @@ https://livednow.com/migu/906727206?sign=gAAAAABmEdBeyZC9yumU3h-yGGEHloHObHAI40P
 #EXTM3U
 #EXTINF:-1,凤凰卫视中文台
 http://proxy.dfkj.live/alitv.php?u=min&id=1
-#EXTINF:-1,Now e 4k
-http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
+#EXTINF:-1,四海钓鱼
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,天元围棋 （免翻）
 http://dqr028.oicp.net:4022/udp/239.93.42.55:5140
 #EXTINF:-1,网球
