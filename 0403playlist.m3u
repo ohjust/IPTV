@@ -1,67 +1,60 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:73834739
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389540000000-dur=40000000-seq=73834739.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389580000000-dur=40000000-seq=73834740.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389620000000-dur=40000000-seq=73834741.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389660000000-dur=40000000-seq=73834742.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389700000000-dur=40000000-seq=73834743.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389740000000-dur=40000000-seq=73834744.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389780000000-dur=40000000-seq=73834745.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389820000000-dur=40000000-seq=73834746.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389860000000-dur=40000000-seq=73834747.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389900000000-dur=40000000-seq=73834748.ts
-#EXTINF:4.000,
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389940000000-dur=40000000-seq=73834749.ts
 
-#EXTINF:-1 tvg-name="华央视" group-title="#genre#", 华央视
-p3p://108.181.20.159:80163/62c200310006b7b2a8c4dade0fd02231
-#EXTINF:-1 tvg-name="CCTV综合" group-title="#genre#", CCTV综合
-p3p://108.181.20.159:80163/62be83ea0001dbed9b27d7bb43427d30
-#EXTINF:-1 tvg-name="CCTV财经" group-title="#genre#", CCTV财经
-p3p://108.181.20.159:80163/5fe15a4400093f55773aac0c576366b8
-#EXTINF:-1 tvg-name="CCTV综艺" group-title="#genre#", CCTV综艺
-p3p://108.181.20.159:80163/62be83ea0001dbed9b27d7bb43427d30
-#EXTINF:-1 tvg-name="CCTV国际" group-title="#genre#", CCTV国际
-p3p://108.181.20.159:80163/61244d9c0006885d64b1b7591f6c12a0
-#EXTINF:-1 tvg-name="CCTV体育" group-title="#genre#", CCTV体育
-p3p://108.181.20.159:80163/62c2e10a000954acac332b30611a0e9d
-#EXTINF:-1 tvg-name="CCTV电影" group-title="#genre#", CCTV电影
-p3p://108.181.20.159:80163/62c1fdfa0006353aa8bc33e5054a54db
-#EXTINF:-1 tvg-name="CCTV军事" group-title="#genre#", CCTV军事
-p3p://108.181.20.159:80163/5fe3e41800087c1581251001631763fa
-#EXTINF:-1 tvg-name="CCTV电视剧" group-title="#genre#", CCTV电视剧
-p3p://108.181.20.159:80163/5ff866900007a9fbd141d26a26c3200d
-#EXTINF:-1 tvg-name="CCTV纪录片" group-title="#genre#", CCTV纪录片
-p3p://108.181.20.159:80163/600b6ba2000d52801b8cbfda6cd319a2
-#EXTINF:-1 tvg-name="CCTV科教" group-title="#genre#", CCTV科教
-p3p://108.181.20.159:80163/600b6e71000738431b97b6e5675e67a4
-#EXTINF:-1 tvg-name="CCTV戏曲" group-title="#genre#", CCTV戏曲
-p3p://108.181.20.159:80163/600b70950000f68f1ba011e06e003057
-#EXTINF:-1 tvg-name="CCTV社会与法" group-title="#genre#", CCTV社会与法
-p3p://108.181.20.159:80163/5fe3e42d00068cbf812561891e0e6b52
-#EXTINF:-1 tvg-name="CCTV新闻" group-title="#genre#", CCTV新闻
-p3p://108.181.20.159:80163/632351570006042224e55806316a7512
-#EXTINF:-1 tvg-name="CCTV少儿" group-title="#genre#", CCTV少儿
-p3p://108.181.20.159:80163/600b718b0006dd9f1ba3d45468b1762e
-#EXTINF:-1 tvg-name="CCTV音乐" group-title="#genre#", CCTV音乐
-p3p://108.181.20.159:80163/63235101000d828724e40a062bb62592
-#EXTINF:-1 tvg-name="CCTV奥林匹克" group-title="#genre#", CCTV奥林匹克
-p3p://108.181.20.159:80163/632350a5000deee324e2a2bc22a
-
-
-EXTINF:4.000,
-
-
-https://litvpc-hichannel.cdn.hinet.net/live/pool/4gtv-4gtv066/litv-pc/4gtv-4gtv066-avc1_6000000=1-mp4a_141000_zho=2-begin=2953389980000000-dur=40000000-seq=73834750.ts
+#EXTINF:-1,CCTV-1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
+#EXTINF:-1,CCTV-2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236393/index.m3u8
+#EXTINF:-1,CCTV-3
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236244/index.m3u8
+#EXTINF:-1,CCTV-4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236442/index.m3u8
+#EXTINF:-1,CCTV-4欧洲
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
+#EXTINF:-1,CCTV-4美洲
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
+#EXTINF:-1,CCTV-5
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236444/index.m3u8
+#EXTINF:-1,CCTV-5+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8
+#EXTINF:-1,CCTV-6
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236294/index.m3u8
+#EXTINF:-1,CCTV-7
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236219/index.m3u8
+#EXTINF:-1,CCTV-8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236211/index.m3u8
+#EXTINF:-1,CCTV-9
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236246/index.m3u8
+#EXTINF:-1,CCTV-10
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236238/index.m3u8
+#EXTINF:-1,CCTV-11
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236216/index.m3u8
+#EXTINF:-1,CCTV-12
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236203/index.m3u8
+#EXTINF:-1,CCTV-13
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236169/index.m3u8
+#EXTINF:-1,CCTV-14
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236317/index.m3u8
+#EXTINF:-1,CCTV-15
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236165/index.m3u8
+#EXTINF:-1,CCTV-16
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236181/index.m3u8
+#EXTINF:-1,CCTV-17
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
+#EXTINF:-1,CCTV-高尔夫网球
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,CCTV-发现之旅
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
+#EXTINF:-1,CCTV-中学生
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8
+#EXTINF:-1,CGTN-记录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
+#EXTINF:-1,CGTN-法语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236288/index.m3u8
+#EXTINF:-1,CGTN-阿语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236290/index.m3u8
+#EXTINF:-1,CGTN-俄语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236228/index.m3u8
+#EXTINF:-1,CGTN-西语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236235/index.m3u8
