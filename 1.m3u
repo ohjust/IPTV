@@ -80,6 +80,16 @@ http://ohjust.serv00.net/Smartv.php?id=tiankongmain
 http://gcp4.5201972.xyz:5678/1905.php?id=1905a
 #EXTINF:-1,中央六套
 http://live.iill.top/1905.php?id=cctv6
+#EXTM3U
+
+#EXTINF:-1, Now 618 CH618 (HK)
+http://ali.hlspull.yximgs.com/live/07b65be12b718c39523290a723ac1b54.flv
+
+#EXTINF:-1, Now 619 CH619 (HK)
+http://ali.hlspull.yximgs.com/live/21c188db80993ed0c0c89adf3794def1.flv
+
+#EXTINF:-1, Now 688 CH688 (HK)
+http://ali.hlspull.yximgs.com/live/d83480f976df1d6f20769876490e3007.flv
 #EXTINF:-1,serv00smartcctv1
 http://ohjust.serv00.net/Smartv.php?id=cctv1
 #EXTINF:-1,爆谷影星台
