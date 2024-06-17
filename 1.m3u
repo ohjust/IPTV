@@ -72,8 +72,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 https://ali.hlspull.yximgs.com/live/ab054725-55ba-48ef-9b1e-71c0cb0e8fdd.flv
 #EXTINF:-1,france 24油管
 http://34.106.108.1:8900/live.m3u8?c=1
-#EXTINF:-1,yes1
-http://117.141.194.182:39581/stream/channelid/27276593
+#EXTINF:-1,围棋
+http://gcp4.5201972.xyz:56789/tptv/G_TIANYUANWQ?cdn=tptv1
 #EXTINF:-1,serv00smart天空
 http://ohjust.serv00.net/Smartv.php?id=tiankongmain
 #EXTINF:-1,1905电影台gcp4
