@@ -1,0 +1,17 @@
+server {
+    # 需要映射 9000 端口
+    listen 9000 default_server;
+
+    # 修改 YOUR_DOMAIN 为你自己的域名，没有域名就删除 server_name 这一行
+    # server_name YOUR_DOMAIN;
+
+    location ~ ^/(?<cdn>ystenlive|bestlive|wasulive|fifalive|hnbblive)(?<path>.*) {
+        resolver 223.5.5.5; # 可以更改为其他 dns 服务或者你自己的路由器
+
+        set $target_url http://pixman.io.$cdn.dnsany.com$path$is_args$args;
+        set $cdn_host cache.ott.$cdn.itv.cmvideo.cn;
+
+        proxy_pass $target_url;
+        proxy_set_header Host $cdn_host;
+    }
+}

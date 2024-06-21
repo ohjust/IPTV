@@ -1,0 +1,16 @@
+services:
+  pixman:
+    image: pixman/pixman:latest
+    restart: always
+    container_name: pixman
+    ports:
+      - 5000:5000
+  pixman-nginx:
+    image: nginx:latest
+    restart: always
+    container_name: pixman-nginx
+    ports:
+      - 8000:8000
+      - 9000:9000
+    volumes:
+       - ./nginx:/etc/nginx/conf.d

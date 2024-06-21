@@ -1,0 +1,46 @@
+server {
+    listen 8001 default_server;
+    location / {
+        set $ua 'okhttp/3';
+        if ($arg_ua) {
+            set $ua $arg_ua;
+        }
+        proxy_pass http://tptv1.mobaibox.com;
+        proxy_set_header Host tptv1.mobaibox.com;
+        proxy_set_header User-Agent $ua;
+        proxy_connect_timeout 3;
+    }
+}
+
+server {
+    listen 8002 default_server;
+    location / {
+        set $ua 'okhttp/3';
+        if ($arg_ua) {
+            set $ua $arg_ua;
+        }
+        proxy_pass http://tptv2.mobaibox.com;
+        proxy_set_header Host tptv2.mobaibox.com;
+        proxy_set_header User-Agent $ua;
+        proxy_connect_timeout 3;
+    }
+}
+
+upstream cdn_server {
+    server 127.0.0.1:8001 weight=1 max_fails=1 fail_timeout=60s;
+
+    # tptv2.mobaibox.com 貌似被关闭，暂时注释掉
+    # server 127.0.0.1:8002 weight=1 max_fails=1 fail_timeout=60s;
+}
+
+server {
+    listen 8000 default_server;
+
+    # 修改 YOUR_DOMAIN 为你自己的域名，没有域名就删除 server_name 这一行
+    # server_name YOUR_DOMAIN;
+
+    location / {
+        proxy_next_upstream error timeout http_502 http_503 http_504;
+        proxy_pass http://cdn_server;
+    }
+}
