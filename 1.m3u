@@ -13,8 +13,8 @@ http://gcp5.5201972.xyz:4567/playlist.m3u
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
 #EXTINF:-1, 5+
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8
-#EXTINF:-1, gcp5推流
-http://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
+#EXTINF:-1, gcp5推流博斯网球
+u=ohjust&p=http://gcp5.5201972.xyz:4567/stream/4gtv/null/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 #EXTINF:-1, gcp4ub爱尔达体育
 http://gcp4.5201972.xyz:5678/ublive.php?id=2731
 #EXTINF:-1, xxxx
