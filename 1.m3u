@@ -114,7 +114,9 @@ http://gcp5.5201972.xyz:4567/stream/4gtv/now619/master.m3u8?u=ohjust&p=a59c950db
 http://gcp5.5201972.xyz:4567/stream/4gtv/now688/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
 #EXTINF:6 group-title="4gtv" tvg-id="4gtv/cctv1" tvg-logo="" provider="4gtv" provider-logo="" provider-type="iptv",[4gtv] nownew
-http://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8?#EXTINF:-1,爆谷影星台
+http://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8??u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
+
+#EXTINF:-1,爆谷影星台
 http://dev.9528.eu.org/xvx.xx6868.online/bg-xy/stream/dc988679d0a93ab3ca49a52a4c5e6571/index.m3u8?token=5bd747bfebe8783df15e2fd5ae6bb4d4
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 1
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
