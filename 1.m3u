@@ -87,10 +87,10 @@ http://live.iill.top/1905.php?id=cctv6
 #EXTM3U
 
 #EXTINF:-1, Now 618 CH618 (HK)
-http://ali.hlspull.yximgs.com/live/07b65be12b718c39523290a723ac1b54.flv
+hls://gcp5.5201972.xyz:4567/stream/4gtv/now618/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
-#EXTINF:-1, Now 619 CH619 (HK)
-http://ali.hlspull.yximgs.com/live/21c188db80993ed0c0c89adf3794def1.flv
+#EXTINF:-1, Now 新闻
+hls://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
 #EXTINF:-1, Now 688 CH688 (HK)
 http://gcp4.5201972.xyz:56789/tptv/G_CCTV-1-AVS-4K264?cdn=tptv1
