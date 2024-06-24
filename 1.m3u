@@ -114,7 +114,7 @@ http://gcp5.5201972.xyz:4567/stream/4gtv/now619/master.m3u8?u=ohjust&p=a59c950db
 http://gcp5.5201972.xyz:4567/stream/4gtv/now688/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
 #EXTINF:6 group-title="4gtv" tvg-id="4gtv/cctv1" tvg-logo="" provider="4gtv" provider-logo="" provider-type="iptv",[4gtv] nownew
-http://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8??u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
+http://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
 #EXTINF:-1,hoy77
 http://gcp5.5201972.xyz:4567/stream/4gtv/hoy77/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
