@@ -80,7 +80,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 #EXTINF:-1,france 24油管
 http://34.106.108.1:8900/live.m3u8?c=1
 #EXTINF:-1,围棋
-http://gcp4.5201972.xyz:56789/tptv/G_TIANYUANWQ?cdn=tptv1
+http://13.40.176.29:5000/tptv/G_TIANYUANWQ?type=proxy&server=13.40.176.29:8000
 #EXTINF:-1,serv00smart天空
 http://ohjust.serv00.net/Smartv.php?id=tiankongmain
 #EXTINF:-1,SMART天空aws
