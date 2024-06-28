@@ -116,11 +116,14 @@ http://gcp5.5201972.xyz:4567/stream/4gtv/now618/master.m3u8?u=ohjust&p=a59c950db
 #EXTINF:5 group-title="4gtv" tvg-id="4gtv/now619" tvg-logo="" provider="4gtv" provider-logo="" provider-type="iptv",[4gtv] now619
 http://gcp5.5201972.xyz:4567/stream/4gtv/now619/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
-#EXTINF:6 group-title="4gtv" tvg-id="4gtv/now688" tvg-logo="" provider="4gtv" provider-logo="" provider-type="iptv",[4gtv] now688
-http://gcp5.5201972.xyz:4567/stream/4gtv/now688/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
+#EXTINF:1 group-title="tl" tvg-id="tl/bsteniswomen" tvg-logo="" provider="tl" provider-logo="" provider-type="iptv",[tl] BStenis-women
+http://aws.5201972.xyz:4567/stream/tl/bsteniswomen/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
 
-#EXTINF:7 group-title="4gtv" tvg-id="4gtv/cctv1" tvg-logo="" provider="4gtv" provider-logo="" provider-type="iptv",[4gtv] nownew
-http://gcp5.5201972.xyz:4567/stream/4gtv/cctv1/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
+#EXTINF:2 group-title="tl" tvg-id="tl/bstennis" tvg-logo="" provider="tl" provider-logo="" provider-type="iptv",[tl] BStennis
+http://aws.5201972.xyz:4567/stream/tl/bstennis/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
+
+
+
 
 #EXTINF:-1,hoy77
 http://gcp5.5201972.xyz:4567/stream/4gtv/hoy77/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
