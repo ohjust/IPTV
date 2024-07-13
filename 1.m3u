@@ -30,8 +30,8 @@ http://193.24.209.91/Smartv.php?id=eltasport_twn
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Bein 4K UHD" tvg-logo="https://contentlibrary.digiturk.com.tr/Channel/483/Image/bein_205x150_2022.png" group-title="Bein Sports 4K",Bein 4K UHD
 http://m3u.lol:80/20821215493690/194906948679/308587
-#EXTINF:-1,弈坛春秋（江苏移动）
-http://gcp4.5201972.xyz:56789/tptv/G_YITANCQ?cdn=tptv1
+#EXTINF:-1,cctv6（1905php-aws）
+http://aws.5201972.xyz:5678/1905.php?id=cctv6
 #EXTINF:-1,mytvfree
 http://aws.5201972.xyz:5678/33.php?id=333
 #EXTINF:-1,推流GCP5
