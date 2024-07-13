@@ -62,7 +62,7 @@ http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 #EXTINF:-1,纬来体育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:-1,博斯网球台SMARTVaws
-http://aws.5201972.xyz:5678/Smartv.php?id=bositennis_twn
+http://aws.5201972.xyz:5678/smt.php?id=bositennis_twn
 #EXTINF:-1,经典影视台
 http://ali.hlspull.yximgs.com/live/asdfg32516.flv
 #EXTINF:-1,魅力台免翻serv
