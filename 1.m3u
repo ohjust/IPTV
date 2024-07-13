@@ -55,8 +55,8 @@ http://jgw.5201972.xyz:56789/tptv/G_TIANYUANWQ?cdn=tptv1
 curl http://aws.5201972.xyz:5678/smt.php?id=bositennis2_twn
 #EXTINF:-1,网球
 http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/306128.ts
-#EXTINF:-1,sky main event
-http://free.9528.eu.org:8080/sky-sport-main-event-4k/index.m3u8
+#EXTINF:-1,国外电影（1905php-aws）
+http://aws.5201972.xyz:5678/1905.php?id=1905
 #EXTINF:-1,南国（免翻）
 http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
 #EXTINF:-1,纬来体育
