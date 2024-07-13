@@ -51,8 +51,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=1
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1,jgw天元围棋
 http://jgw.5201972.xyz:56789/tptv/G_TIANYUANWQ?cdn=tptv1
-#EXTINF:-1,awsserv博斯运动台2
-curl http://aws.5201972.xyz:5678/smt.php?id=bositennis2_twn
+#EXTINF:-1,博斯运动台2（smart-aws）
+http://aws.5201972.xyz:5678/smt.php?id=bosisport2_twn
 #EXTINF:-1,网球
 http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/306128.ts
 #EXTINF:-1,国外电影（1905php-aws）
