@@ -84,7 +84,7 @@ http://aws.5201972.xyz:56789/tptv/G_TIANYUANWQ?type=proxy&server=aws.5201972.xyz
 #EXTINF:-1,serv00smart天空
 http://ohjust.serv00.net/Smartv.php?id=tiankongmain
 #EXTINF:-1,SMART天空aws
-http://aws.5201972.xyz:5678/Smartv.php?id=tiankongmain
+http://aws.5201972.xyz:5678/smt.php?id=tiankongmain
 #EXTINF:-1,中央六套
 http://live.iill.top/1905.php?id=cctv6
 #EXTM3U
