@@ -16,10 +16,10 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236306/index.m3u8
 #EXTINF:-1, gcp5推流博斯魅力网
 http://gcp5.5201972.xyz:4567/stream/4gtv/bstennis/master.m3u8?u=ohjust&p=a59c950db72a95db5c9406e9619974b4c1e1cd66beae51c1208f43b34b18dc07
-#EXTINF:-1, gcp4ub爱尔达体育
-http://gcp4.5201972.xyz:5678/ublive.php?id=2731
-#EXTINF:-1, xxxx
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8 
+#EXTINF:-1, 爱尔达体育2（smart-aws）
+http://aws.5201972.xyz:5678/smt.php?id=eltasport2_twn
+#EXTINF:-1, 爱尔达体育（smart-aws）
+http://aws.5201972.xyz:5678/smt.php?id=eltasport_twn
 #EXTINF:-1, 东森电影（smart-aws）
 http://aws.5201972.xyz:5678/smt.php?id=ettvmovie
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Elta_Sports_Logo.svg/1024px-Elta_Sports_Logo.svg.png" group-title="体育", 爱尔达体育2
