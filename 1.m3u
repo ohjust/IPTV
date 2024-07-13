@@ -125,14 +125,7 @@ http://aws.5201972.xyz:4567/stream/tl/bstennis/master.m3u8?u=ohjust&p=a59c950db7
 
 
 
-#EXTINF:-1,hoy77
-http://aws.5201972.xyz:5678/smt.php?id=bositennis_twn
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 1
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 2
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/05/13/6LJPCHILI6HT.png" group-title="🏆欧洲杯赛事🏆",咪咕 4K 欧洲杯 3
-http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+
 #EXTM3U
 
 #EXTINF:-1,TVB Magic
