@@ -136,43 +136,43 @@ http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Sl
 #EXTM3U
 
 #EXTINF:-1,TVB Magic
-http://aws.5201972.xyz:56789/Smt.php?id=Tvbmagic
+http://aws.5201972.xyz:56789/smt.php?id=Tvbmagic
 
 #EXTINF:-1,TVB Jade
-http://aws.5201972.xyz:56789/Smt.php?id=Tvbjade
+http://aws.5201972.xyz:56789/smt.php?id=Tvbjade
 
 #EXTINF:-1,TVB Asia
-http://aws.5201972.xyz:56789/Smt.php?id=Tvbasia
+http://aws.5201972.xyz:56789/smt.php?id=Tvbasia
 
 #EXTINF:-1,TVB Entertainment
-http://aws.5201972.xyz:56789/Smt.php?id=Tvbentertainment
+http://aws.5201972.xyz:56789/smt.php?id=Tvbentertainment
 
 #EXTINF:-1,TVB Classic
-http://aws.5201972.xyz:56789/Smt.php?id=Tvbclassic
+http://aws.5201972.xyz:56789/smt.php?id=Tvbclassic
 
 #EXTINF:-1,TVBJ2
-http://aws.5201972.xyz:56789/Smt.php?id=j2_twn
+http://aws.5201972.xyz:56789/smt.php?id=j2_twn
 
 #EXTINF:-1,TVB星河
-http://aws.5201972.xyz:56789/Smt.php?id=Xinhe
+http://aws.5201972.xyz:56789/smt.php?id=Xinhe
 
 #EXTINF:-1,TVB珍珠
-http://aws.5201972.xyz:56789/Smt.php?id=pearl_twn
+http://aws.5201972.xyz:56789/smt.php?id=pearl_twn
 
 #EXTINF:-1,TVB翡翠
-http://aws.5201972.xyz:56789/Smt.php?id=jade_mike
+http://aws.5201972.xyz:56789/smt.php?id=jade_mike
 
 #EXTINF:-1,HGTV
-http://aws.5201972.xyz:56789/Smt.php?id=HGTV
+http://aws.5201972.xyz:56789/smt.php?id=HGTV
 
 #EXTINF:-1,RHK31
-http://aws.5201972.xyz:56789/Smt.php?id=rhk31_twn
+http://aws.5201972.xyz:56789/smt.php?id=rhk31_twn
 
 #EXTINF:-1,RHK32
-http://aws.5201972.xyz:56789/Smt.php?id=rhk32_twn
+http://aws.5201972.xyz:56789/smt.php?id=rhk32_twn
 
 #EXTINF:-1,VIUTV1
-http://aws.5201972.xyz:56789/Smt.php?id=viu1_twn
+http://aws.5201972.xyz:56789/smt.php?id=viu1_twn
 
 #EXTINF:-1,VIUTV6
-http://aws.5201972.xyz:56789/Smt.php?id=viu6_twn
+http://aws.5201972.xyz:56789/smt.php?id=viu6_twn
