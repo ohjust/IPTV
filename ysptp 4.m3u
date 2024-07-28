@@ -1,0 +1,61 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1
+http://替换为你的IP:6688/ysptp/cctv1.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",cctv2
+http://替换为你的IP:6688/ysptp/cctv2.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",cctv3
+http://替换为你的IP:6688/ysptp/cctv3.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",cctv4
+http://替换为你的IP:6688/ysptp/cctv4.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5
+http://替换为你的IP:6688/ysptp/cctv5.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5p
+http://替换为你的IP:6688/ysptp/cctv5p.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",cctv6
+http://替换为你的IP:6688/ysptp/cctv6.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",cctv7
+http://替换为你的IP:6688/ysptp/cctv7.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",cctv8
+http://替换为你的IP:6688/ysptp/cctv8.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",cctv9
+http://替换为你的IP:6688/ysptp/cctv9.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",cctv10
+http://替换为你的IP:6688/ysptp/cctv10.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",cctv11
+http://替换为你的IP:6688/ysptp/cctv11.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",cctv12
+http://替换为你的IP:6688/ysptp/cctv12.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",cctv13
+http://替换为你的IP:6688/ysptp/cctv13.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",cctv14
+http://替换为你的IP:6688/ysptp/cctv14.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",cctv15
+http://替换为你的IP:6688/ysptp/cctv15.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv16
+http://替换为你的IP:6688/ysptp/cctv16.m3u8
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",cctv17
+http://替换为你的IP:6688/ysptp/cctv17.m3u8
+#EXTINF:-1,tvg-id="CGTNALBY" tvg-name="CGTNALBY" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png" group-title="央视",cgtnar
+http://替换为你的IP:6688/ysptp/cgtnar.m3u8
+#EXTINF:-1,tvg-id="cgtndocumentary" tvg-name="cgtndocumentary" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png" group-title="央视",cgtndoc
+http://替换为你的IP:6688/ysptp/cgtndoc.m3u8
+#EXTINF:-1,tvg-id="CGTNEY" tvg-name="CGTNEY" tvg-logo="https://epg.v1.mk/logo/CGTNEY.png" group-title="央视",cgtnen
+http://替换为你的IP:6688/ysptp/cgtnen.m3u8
+#EXTINF:-1,tvg-id="cgtnfrench" tvg-name="cgtnfrench" tvg-logo="https://epg.v1.mk/logo/cgtnfrench.png" group-title="央视",cgtnfr
+http://替换为你的IP:6688/ysptp/cgtnfr.m3u8
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",cgtnru
+http://替换为你的IP:6688/ysptp/cgtnru.m3u8
+#EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",cgtnsp
+http://替换为你的IP:6688/ysptp/cgtnsp.m3u8
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",cctv4k_10m
+http://替换为你的IP:6688/ysptp/cctv4k_10m.m3u8
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",cctv4k
+http://替换为你的IP:6688/ysptp/cctv4k.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv164k_10m
+http://替换为你的IP:6688/ysptp/cctv4k16_10m.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv164k
+http://替换为你的IP:6688/ysptp/cctv4k16.m3u8
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",cctv8k_36m
+http://替换为你的IP:6688/ysptp/cctv8k_36m.m3u8
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",cctv8k_120m
+http://替换为你的IP:6688/ysptp/cctv8k_120m.m3u8
