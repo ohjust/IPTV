@@ -4,5 +4,5 @@
 #EXTINF:-1 tvg-id="mewach" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%277805264%27&EntityType=%27Item%27&EntityId=%27466896%27&Width=336&Height=189&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Olympics 14
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e20eb9aafa33ef5a5279c3994812ead:09ab6682efeee58b7c884f03a4915bbc
+#KODIPROP:inputstream.adaptive.license_key=b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
 https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd
