@@ -1,0 +1,20 @@
+proxies:
+- alpn:
+  - h3
+  auth_str: fc44fe6a-f083-4591-9c03-f8d61dc3907f
+  name: PL-Atman_Sp._z_o.o.
+  obfs: none
+  peer: www.bing.com
+  port: 2800
+  server: 91.185.190.159
+  skip-cert-verify: true
+  type: hysteria2
+proxy-groups:
+- name: Proxy
+  proxies:
+  - PL-Atman_Sp._z_o.o.
+  type: select
+rules:
+- DOMAIN-SUFFIX,google.com,Proxy
+- DOMAIN-SUFFIX,facebook.com,Proxy
+- MATCH,Proxy
