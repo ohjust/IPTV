@@ -1,0 +1,9 @@
+
+asn=="AS3462" && server=="cloudflare"  && banner="HTTP/1.1 403 Forbidden" && protocol="https" && country=="TW"
+
+
+server=="cloudflare" && port=="443" && header="Forbidden" && (region=="TW") && asn!="13335" && asn!="209242" && asn!="45102" && asn!="31898" && (cert="" || cert="cloudflare")用这个吧，500多，极限降低了，验证起来不麻烦
+
+本规则最大限度的安全搜索【剔除非CF证书和不安全反代】出反代IP，数量少准确度高，这样排查可用IP的工作量也将减少，剔除阿里云和甲骨文，想要什么国家的就修改 (country=="JP" || country=="KR" || country=="SG") 中的字段，可以利用时间规则after="2024-06-01"搜索最近的IP
+
+server=="cloudflare" && port=="80" && header="Forbidden" && country!="CN" && (country=="JP" || country=="KR" || country=="SG") && domain="" && asn!="13335" && asn!="209242" && asn!="45102" && asn!="31898" && (cert="" || cert="cloudflare") && after="2024-06-01"
