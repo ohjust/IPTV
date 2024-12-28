@@ -1,10 +1,10 @@
 #!/bin/bash
 export UUID=${UUID:-'fc44fe6a-f083-4591-9c03-f8d61dc3907f'}
 export NEZHA_SERVER=${NEZHA_SERVER:-'nezhak.5201972.xyz'}   # 哪吒3个变量不全不运行
-export NEZHA_PORT=${NEZHA_PORT:-'444'}         # 哪吒端口为{443,8443,2096,2087,2083,2053}其中之一时开启tls
+export NEZHA_PORT=${NEZHA_PORT:-'443'}         # 哪吒端口为{443,8443,2096,2087,2083,2053}其中之一时开启tls
 export NEZHA_KEY=${NEZHA_KEY:-'V0zzRDtyLquclyvMpH'}             # 哪吒客户端密钥
-export ARGO_DOMAIN=${ARGO_DOMAIN:-''}          # 固定隧道域名，留空即启用临时隧道
-export ARGO_AUTH=${ARGO_AUTH:-''}            # 固定隧道json或token，留空即启用临时隧道，json可在 https://fscarmen.cloudflare.now.cc 获取
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'4-ar.5201972.xyz'}          # 固定隧道域名，留空即启用临时隧道
+export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiZmJkN2VhODFlMjI1MWIzMWMyYmJmNWJmZTFkY2Q3OWEiLCJ0IjoiOTk0YjkyZTYtNGI2Ny00Mjk0LTlhOTgtYTgxOGI4YTI1OGJlIiwicyI6Ik1qRTFaV1JqWmpjdE1qSmlaQzAwTjJRMExXRTBPRE10WkdVeE5XRXhNR1UxTnpnMSJ9'}            # 固定隧道json或token，留空即启用临时隧道，json可在 https://fscarmen.cloudflare.now.cc 获取
 export CFIP=${CFIP:-'www.visa.com.tw'}        # 优选域名或优选ip
 export CFPORT=${CFPORT:-'8443'}             # 节点端口
 export NAME=${NAME:-'Vls'}                # 节点名称
